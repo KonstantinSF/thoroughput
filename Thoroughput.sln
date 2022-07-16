@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Thoroughput", "Thoroughput\Thoroughput.vcxproj", "{324CB30F-0B96-4F6E-84F7-08BB959FF556}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{324CB30F-0B96-4F6E-84F7-08BB959FF556}.Debug|x64.ActiveCfg = Debug|x64
+		{324CB30F-0B96-4F6E-84F7-08BB959FF556}.Debug|x64.Build.0 = Debug|x64
+		{324CB30F-0B96-4F6E-84F7-08BB959FF556}.Debug|x86.ActiveCfg = Debug|Win32
+		{324CB30F-0B96-4F6E-84F7-08BB959FF556}.Debug|x86.Build.0 = Debug|Win32
+		{324CB30F-0B96-4F6E-84F7-08BB959FF556}.Release|x64.ActiveCfg = Release|x64
+		{324CB30F-0B96-4F6E-84F7-08BB959FF556}.Release|x64.Build.0 = Release|x64
+		{324CB30F-0B96-4F6E-84F7-08BB959FF556}.Release|x86.ActiveCfg = Release|Win32
+		{324CB30F-0B96-4F6E-84F7-08BB959FF556}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A927ACD-3D07-4A85-AAA8-654CBBD6C140}
+	EndGlobalSection
+EndGlobal
